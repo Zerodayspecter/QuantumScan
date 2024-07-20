@@ -1,42 +1,24 @@
-Certainly! Here's a basic template for a README file on GitHub for your "QuantumScan Pro" advanced scanner tool:
-
----
-
-# QuantumScan Pro
+# QuantumScan
 
 ## Overview
-QuantumScan Pro is an advanced scanner tool designed to [briefly describe its purpose and main features].
+QuantumScan Pro is an advanced scanner tool designed to [scan devices thats connected to your network maybe you can find a hacker in your network :) ].
 
 ## Features
-- **Feature 1**: Describe the primary feature or capability.
-- **Feature 2**: List another important feature.
-- **Feature 3**: Highlight additional features as necessary.
+- **Feature 1**: gives you devices that connected to your network faster
+- **Feature 2**: List them perfect with there mac adders and ip
+- **Feature 3**: shows you the hostnames
 
 ## Installation
-To install QuantumScan Pro, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/quantumscan-pro.git`
-2. [Additional installation steps if needed]
+To install QuantumScan, follow these steps:
+1. Clone the repository: `https://github.com/Zerodayspecter/QuantumScan.git`
+2. cd QuantumScan
 
 ## Usage
-To use QuantumScan Pro, [provide examples or commands]:
-```
-quantumscan-pro --option1 value1 --option2 value2
-```
+To use QuantumScan, [python3 QuantumScan.py]:
 
-## Configuration
-QuantumScan Pro can be configured in [ways to configure the tool, if applicable].
-
-## Contributing
-We welcome contributions! If you'd like to contribute to QuantumScan Pro, please follow these guidelines:
-- Fork the repository and create your branch from `main`.
-- Open a pull request with a clear description of your changes.
-
-## License
-[Specify the license under which your tool is distributed.]
+##Disclaimer
+QuantumScan Pro is provided for educational and informational purposes only. The creator(s) of this tool are not responsible for any illegal activities conducted with the tool.
 
 ## Contact
-For questions or feedback, contact us at [your-email@example.com].
+For questions or feedback, contact us at [zerodaysepcter in tiktok].
 
----
-
-Feel free to customize this template with specific details about your tool, including more elaborate descriptions, installation instructions, examples of usage, and any other pertinent information.
